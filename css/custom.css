@@ -8,3 +8,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+#content > .container {
+  min-height: calc(100vh - 67px - 153px - 52px)
+}
